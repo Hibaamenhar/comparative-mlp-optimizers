@@ -84,7 +84,19 @@ cd comparative-mlp-optimizers
 Open `comparative-mlp-optimizers.ipynb` in Jupyter Notebook or VSCode.
 
 ---
+## 📄 Report
 
+A detailed report discussing the theoretical background, implementation choices, optimizer behaviors, convergence analysis, and experimental results is available here:
+
+📘 **[mlp-optimizers-rapport.pdf](report/mlp-optimizers-rapport.pdf)**
+
+It includes:
+- Mathematical formulation of forward/backward propagation
+- Detailed optimizer descriptions
+- Loss curve analysis and accuracy tables
+- Final recommendations
+
+---
 ## 📄 License
 
 MIT License
