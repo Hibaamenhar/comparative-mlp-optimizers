@@ -81,7 +81,7 @@ cd comparative-mlp-optimizers
 ```
 
 2. Run the notebook:
-Open `TP_optimiseurs_final.ipynb` in Jupyter Notebook or VSCode.
+Open `comparative-mlp-optimizers.ipynb` in Jupyter Notebook or VSCode.
 
 ---
 
